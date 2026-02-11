@@ -11,7 +11,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![python](https://img.shields.io/badge/Python-%23ED8B00.svg?style=for-the-badge&logo=Python&logoColor=white) 
-![Office](https://img.shields.io/badge/office-%23ED8B00.svg?style=for-the-badge&logo=office&logoColor=green) 
+
 
 
 # 🌐 Contacts:
