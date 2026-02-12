@@ -1,15 +1,6 @@
 
 
-## hello, my name is Gustavo 👋
-
-
-
-# 📊 GitHub Stats:
-<div align="center">
-  <img src="https://seuapp.vercel.app/api?username=GusFrig&show_icons=true&theme=neon"/>
-  <img src="https://seuapp.vercel.app/api/top-langs/?username=GusFrig&layout=compact&langs_count=7&theme=neon"/>
-</div>
-
+## hello, my name is Gustavo 
 
 
 
