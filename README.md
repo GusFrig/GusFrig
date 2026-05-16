@@ -24,3 +24,5 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustapachecoo@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-%23333?style=for-the-badge&logo=whatsapp&logoColor=25D366)](https://wa.me/5585984778654)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/gustavo-pacheco-257b5a11a/)
+[![Instagram](https://img.shields.io/badge/LinkedIn-0A66C2?logo=instagram&logoColor=white&style=flat)](https://www.instagram.com/gustavoo__pachecoo/)
+
