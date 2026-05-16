@@ -1,6 +1,7 @@
 
 
 ## Hello World, my name is Gustavo 
+![](https://gifdb.com/images/high/konosuba-anime-dancing-kazuma-77hd6wqzjpdm167c.webp)
 
 
 
